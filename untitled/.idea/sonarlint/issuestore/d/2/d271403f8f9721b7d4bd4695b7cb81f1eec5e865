@@ -1,6 +1,3 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Ö¾8‰¥•µ1
-T
-java:S1854"7Remove this useless assignment to local variable "sum".(¬¿Î8¥•µ1
-E
-java:S1481"(Remove this unused "sum" local variable.(¬¿Î8¥•µ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Ö¾8¡Ä¬•µ1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8Å¬•µ1

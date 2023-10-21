@@ -33,3 +33,9 @@ W
 'src/Java_homework_week1/Question15.java,7\f\7f4338cbc7be1e8508c944ab6131725843b55f8b
 W
 'src/Java_homework_week1/Question16.java,d\2\d271403f8f9721b7d4bd4695b7cb81f1eec5e865
+W
+'src/Java_homework_week1/Question17.java,d\0\d03f388b867bfed12e0f215efb7ba56f1bb09e56
+W
+'src/Java_homework_week1/Question19.java,3\7\3746b24b4b04097dccb200d78510fc980fbe73dc
+W
+'src/Java_homework_week1/Question20.java,6\3\636a76b9d906513eddc70bbf444c770a48bfe2c7
