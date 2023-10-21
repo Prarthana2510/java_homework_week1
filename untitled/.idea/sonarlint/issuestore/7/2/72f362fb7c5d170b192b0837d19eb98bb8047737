@@ -1,0 +1,13 @@
+
+{
+java:S1192"YDefine a constant instead of duplicating this literal "   ****          ****   " 4 times.(£ø¸¶üÿÿÿÿ8‡Ôú‘µ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Öž¾8‡Ôú‘µ1
+L	java:S106"+Replace this use of System.out by a logger.( ­‡àúÿÿÿÿ8ŒÔú‘µ1
+L	java:S106"+Replace this use of System.out by a logger.(£ø¸¶üÿÿÿÿ8ŒÔú‘µ1
+L	java:S106	"+Replace this use of System.out by a logger.(£ø¸¶üÿÿÿÿ8ŒÔú‘µ1
+L	java:S106
+"+Replace this use of System.out by a logger.(£ø¸¶üÿÿÿÿ8ŒÔú‘µ1
+L	java:S106"+Replace this use of System.out by a logger.(£ø¸¶üÿÿÿÿ8’Ôú‘µ1
+L	java:S106"+Replace this use of System.out by a logger.(ÊÃ—·ûÿÿÿÿ8’Ôú‘µ1
+L	java:S106"+Replace this use of System.out by a logger.(ÊÃ—·ûÿÿÿÿ8’Ôú‘µ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤ÅÇž8’Ôú‘µ1

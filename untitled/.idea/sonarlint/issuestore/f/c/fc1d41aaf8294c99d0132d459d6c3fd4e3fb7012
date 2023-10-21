@@ -1,0 +1,16 @@
+
+‚
+java:S1192"`Define a constant instead of duplicating this literal "* * * * * * ===================" 5 times.(Ì×Ùóıÿÿÿÿ8Şí§’µ1
+‚
+java:S1192	"`Define a constant instead of duplicating this literal " * * * * *  ===================" 4 times.(¹ÊÈıÿÿÿÿ8Şí§’µ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Ö¾8ÆÏ¡’µ1
+L	java:S106"+Replace this use of System.out by a logger.(Ì×Ùóıÿÿÿÿ8ËÏ¡’µ1
+L	java:S106	"+Replace this use of System.out by a logger.(¹ÊÈıÿÿÿÿ8ËÏ¡’µ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ì×Ùóıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(¹ÊÈıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(Ì×Ùóıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(¹ÊÈıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(Ì×Ùóıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(¹ÊÈıÿÿÿÿ8ìí§’µ1
+L	java:S106"+Replace this use of System.out by a logger.(Ì×Ùóıÿÿÿÿ8È¨’µ1
